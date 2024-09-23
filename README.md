@@ -4,6 +4,7 @@ September 22, 2024
 
 web4: https://in-info-web4.luddy.indianapolis.iu.edu/~chelcorn/Homework%202/
 
+Description:
 This assignment will help you understand the MVC model and how to implement it into a application.
 
 Instructions
